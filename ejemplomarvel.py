@@ -12,6 +12,7 @@ if puede_volar =="si":
         if tiene_mascara =="si":
             print("Ronan Acuser")
         else:
+            
             print("Vision")
 else:
     if es_humano =="si":
