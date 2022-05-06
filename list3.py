@@ -1,3 +1,7 @@
-lista=[0,1,-3,4,-6,-10]
-lista=[(x>0)*x for x in lista]
+lista=[2,-7,6,-9]
+for x in range(len(lista)):
+    if lista[x]<0 :
+        lista[x]=0
+
 print(lista)
+
