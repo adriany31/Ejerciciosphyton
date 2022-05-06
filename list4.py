@@ -1,5 +1,5 @@
 lista=[]
-for x in range (20):
+for x in range (5):
     valor=int(input('Escriba un número: '))
     lista.append(valor)
     if lista [x]<0:
